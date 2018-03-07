@@ -1,0 +1,10 @@
+d:\Development\itext-dotnetcore-poc\bin\Debug\netcoreapp2.0\itext-dotnetcore-poc.deps.json
+d:\Development\itext-dotnetcore-poc\bin\Debug\netcoreapp2.0\itext-dotnetcore-poc.runtimeconfig.json
+d:\Development\itext-dotnetcore-poc\bin\Debug\netcoreapp2.0\itext-dotnetcore-poc.runtimeconfig.dev.json
+d:\Development\itext-dotnetcore-poc\bin\Debug\netcoreapp2.0\itext-dotnetcore-poc.dll
+d:\Development\itext-dotnetcore-poc\bin\Debug\netcoreapp2.0\itext-dotnetcore-poc.pdb
+d:\Development\itext-dotnetcore-poc\obj\Debug\netcoreapp2.0\itext-dotnetcore-poc.csproj.CoreCompileInputs.cache
+d:\Development\itext-dotnetcore-poc\obj\Debug\netcoreapp2.0\itext-dotnetcore-poc.AssemblyInfoInputs.cache
+d:\Development\itext-dotnetcore-poc\obj\Debug\netcoreapp2.0\itext-dotnetcore-poc.AssemblyInfo.cs
+d:\Development\itext-dotnetcore-poc\obj\Debug\netcoreapp2.0\itext-dotnetcore-poc.dll
+d:\Development\itext-dotnetcore-poc\obj\Debug\netcoreapp2.0\itext-dotnetcore-poc.pdb
